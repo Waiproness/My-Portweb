@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'line_seed_sans_th';
+}
+
+.hero{
+    height: 100vh;
+    width:  100%;
+    background-image: url(https://wallpaperaccess.com/full/665356.jpg);
+    background-size: cover;
+    background-position: center;
+}
